@@ -12,6 +12,7 @@ I chose the following
 ## Attributions
 - [Refresh Button on page](https://www.freecodecamp.org/news/refresh-the-page-in-javascript-js-reload-window-tutorial/)
 - [Complex Query Selector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
+- [String Concatenation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/concat)
 - [Class Change](https://developer.mozilla.org/en-US/docs/Web/API/DOMTokenList/replace)
 - [Google Fonts](https://fonts.google.com/)
     - [Roboto](https://fonts.google.com/specimen/Roboto)

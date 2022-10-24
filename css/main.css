@@ -21,8 +21,7 @@ main {
 
 button {
   /* Button Styling */
-  width: 100px;
-  height: 45px;
+  padding: 0.5em 1em;
 
   background: papayawhip;
   border-color: black;

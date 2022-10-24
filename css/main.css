@@ -1,0 +1,55 @@
+body {
+  font-size: 30px;
+  font-family: "Roboto", Helvetica, sans-serif;
+
+  background-color: brown;
+  color: white;
+
+  margin: 0;
+}
+
+main {
+  /* Main Container */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  min-height: 100vh;
+  margin: auto;
+}
+
+button {
+  /* Button Styling */
+  width: 100px;
+  height: 45px;
+
+  background: papayawhip;
+  border-color: black;
+  border-radius: 0.5em;
+
+  color: black;
+  
+  font-size: 18px;
+  font-family: "Roboto", Helvetica, sans-serif;
+}
+
+button:hover {
+  /* Buton Hover State Styling */
+  background-color: gray;
+}
+
+button:active {
+  /* Button Active State Styling */
+  background-color: lightgray;
+}
+
+.hide {
+  /* Hide class */
+  display: none;
+}
+
+.show {
+  /* Show class */
+  display: block;
+}
